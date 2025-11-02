@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="Inicio"
+        app:iconTint="#718096" />
+    
+    <item
+        android:id="@+id/nav_trips"
+        android:icon="@drawable/ic_car"
+        android:title="Viajes"
+        app:iconTint="#718096" />
+    
+    <item
+        android:id="@+id/nav_packages"
+        android:icon="@drawable/ic_package"
+        android:title="Paquetes"
+        app:iconTint="#718096" />
+    
+    <item
+        android:id="@+id/nav_messages"
+        android:icon="@drawable/ic_chat"
+        android:title="Mensajes"
+        app:iconTint="#718096" />
+    
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_person"
+        android:title="Perfil"
+        app:iconTint="#718096" />
+    
+</menu>
